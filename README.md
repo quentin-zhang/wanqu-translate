@@ -1,6 +1,5 @@
 # wanqu-translate
 wanqu's article machine translate
-<<<<<<< HEAD
 
 Everyday's article generate step :
 
@@ -13,5 +12,4 @@ Everyday's article generate step :
 4.select the 10 article to disk file
 
 5.commit the 10 article
-=======
->>>>>>> parent of 7ce1687... Change ReadMe.md
+
